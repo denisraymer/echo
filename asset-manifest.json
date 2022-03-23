@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/echo/static/js/main.55d4adcd.js",
+    "main.js": "/echo/static/js/main.7932b962.js",
     "static/media/graph-for-the-third-party-sensor-page.svg": "/echo/static/media/graph-for-the-third-party-sensor-page.892e5f09199653e67712ab3cf21a542a.svg",
     "static/media/scheme.svg": "/echo/static/media/scheme.c13e873ff0eb6ef31067b5ca841073ac.svg",
     "static/media/logo.svg": "/echo/static/media/logo.4119e53ab5f7a8d249f754e6bbbeb1cc.svg",
     "static/media/equipment.svg": "/echo/static/media/equipment.56056b70355189db0399daf581b1d969.svg",
     "index.html": "/echo/index.html",
-    "main.55d4adcd.js.map": "/echo/static/js/main.55d4adcd.js.map"
+    "main.7932b962.js.map": "/echo/static/js/main.7932b962.js.map"
   },
   "entrypoints": [
-    "static/js/main.55d4adcd.js"
+    "static/js/main.7932b962.js"
   ]
 }
